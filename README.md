@@ -2,10 +2,10 @@
 
 input:
 
-![ss1]()
+![ss1](https://github.com/miftahuljannah1202/praktikum05/blob/master/gambar/ss1.PNG)
 
 
-![ss2]()
+![ss2](https://github.com/miftahuljannah1202/praktikum05/blob/master/gambar/ss2.PNG)
 
 
 1.membuat variabel perulangan "True" untuk logika lopping
@@ -88,12 +88,11 @@ input:
 
 output:
 
-![output]()
+![output](https://github.com/miftahuljannah1202/praktikum05/blob/master/gambar/output%20praktikum5.PNG)
 
 
 flowchart:
 
-![flowchart]()
+![flowchart](https://github.com/miftahuljannah1202/praktikum05/blob/master/gambar/flowchart%20(1).png)
 
 
-# praktikum05
